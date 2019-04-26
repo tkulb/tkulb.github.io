@@ -3,6 +3,14 @@ My Data Science Portfolio
 
 
 ## Kaggle Competitions
+### [Elo Modeling:](https://github.com/tkulb/elo_modeling)
+
+### [Grid Search and Random Search:](https://github.com/tkulb/elo_modeling/blob/master/grid%20search%20and%20random%20search) 
+I run feature engineering, ensembling, and grid and random searches across three Jupyter notebooks.
+
+
+### [Telematics](https://github.com/tkulb/telematics/blob/master/Telematics.R)
+I competed in a Kaggle competition at Liberty Mutual. I finished 6th out of 55 teams.
 
 ## Standalone Projects
 ### [Predicting Flights:](https://github.com/tkulb/flight_predictions) 
