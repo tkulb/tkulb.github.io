@@ -29,4 +29,5 @@ My Data Science Portfolio
 
 ## Code-Tinkering
 
-* [Shell Script: Spinning up a GCP Cluster for Kaggle Competitions](--) I created Unix shell script to set up a GCP instance connect via a hosted Jupyter notebook or my local Spyder IDE.
+### [Shell Script: Spinning up a GCP Cluster for Kaggle Competitions](--)
+*  I created Unix shell script to set up a GCP instance connect via a hosted Jupyter notebook or my local Spyder IDE.
