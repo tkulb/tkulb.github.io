@@ -5,7 +5,7 @@ My Data Science Portfolio
 ## Kaggle Competitions
 ### [Elo Modeling](https://github.com/tkulb/elo_modeling)
 
-* [Feature Engineering:](https://github.com/tkulb/elo_modeling/blob/master/feature%20engineering) I created functions to repeat the feature engineering process.
+* [Feature Engineering:](https://github.com/tkulb/elo_modeling/blob/master/feature%20engineering) I created functions to repeat the feature engineering process across a number of dimensions and attributes.
 
 * [Grid Search and Random Search:](https://github.com/tkulb/elo_modeling/blob/master/grid%20search%20and%20random%20search) I run feature engineering, ensembling, and grid and random searches across three Jupyter notebooks.
 
