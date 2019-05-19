@@ -32,5 +32,5 @@ My Data Science Portfolio
 ### [Shell Script: Spinning up a GCP Cluster for Kaggle Competitions](https://github.com/tkulb/shell_tinker/blob/master/Kaggle_GCP_shell_configuration.SH)
 *  I wrote shell script to set up a GCP instance connect via a hosted Jupyter notebook or my local Spyder IDE. 
 
-### [Sentiment of Reddit: Analyzing Emotional Sentiment in Posts and Replies](https://github.com/tkulb/reddit_sentiment/blob/master/reddit_import.py)
+### [Analyzing Emotional Sentiment in Reddit Posts and Replies](https://github.com/tkulb/reddit_sentiment/blob/master/reddit_import.py)
 *  I've downloaded Reddit post data to explore Sentiment using pre-trained word embeddings.
